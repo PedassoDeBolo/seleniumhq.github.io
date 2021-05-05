@@ -54,7 +54,7 @@ Grille, qui à son tour parlent au conducteur sur le système hôte
 
 ## Où les cadres s'intègrent
 
-WebDriver a un seul travail et un seul travail: communiquez avec le navigateur via
+WebDriver a un seul travail et un seul travail: communiquer avec le navigateur via
 des méthodes ci-dessus.WebDriver ne sait rien du test: il ne sait pas
 savoir comparer les choses, affirmer réussir ou échouer, et il ne sait certainement pas
 une chose à propos de la grammaire Reporting ou Given / When / Then.
